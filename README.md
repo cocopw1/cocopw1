@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hello, I'm [cocopw]  
 
-<!--
-**cocopw1/cocopw1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant ingénieur passionné par la **technologie, l'innovation et le développement logiciel**.  
+💡 Toujours en quête de nouvelles connaissances en **programmation et en devloppement**.  
+🔧 Actuellement en train d'explorer **[technologies spécifiques : Python, C++, etc.]**.  
 
-Here are some ideas to get you started:
+## 🚀 Compétences  
+- 💻 Programmation : Python, C++, Java
+- 🛠️ Développement web & DevOps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Me contacter  
+📧 Email : [ton.email@example.com](mailto:ton.email@example.com)  
+🔗 LinkedIn : [Côme MARCHAL](https://www.linkedin.com/in/c%C3%B4me-marchal-480462240)
+📂 Portfolio : ~~[cocopw](https://cocopw.fr)~~ en devloppement 
+
+📌 **"Apprendre, expérimenter et innover !"** 🚀  
