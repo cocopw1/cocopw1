@@ -14,4 +14,3 @@
 📂 Portfolio : ~~[cocopw](https://cocopw.fr)~~ en devloppement 
 
 📌 **"Apprendre, expérimenter et innover !"** 🚀  
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={cocopw1}&theme={dracula}
