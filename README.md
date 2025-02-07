@@ -10,7 +10,7 @@
 
 ## 📫 Me contacter  
 📧 Email : [ton.email@example.com](mailto:ton.email@example.com)  
-🔗 LinkedIn : [Côme MARCHAL](https://www.linkedin.com/in/c%C3%B4me-marchal-480462240)
+🔗 LinkedIn : [Côme MARCHAL](https://www.linkedin.com/in/c%C3%B4me-marchal-480462240)  
 📂 Portfolio : ~~[cocopw](https://cocopw.fr)~~ en devloppement 
 
 📌 **"Apprendre, expérimenter et innover !"** 🚀  
