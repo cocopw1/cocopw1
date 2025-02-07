@@ -9,7 +9,7 @@
 - 🛠️ Développement web & DevOps
 
 ## 📫 Me contacter  
-📧 Email : [ton.email@example.com](mailto:ton.email@example.com)  
+📧 Email : [marchal@et.esiea.fr](mailto:marchal@et.esiea.fr)  
 🔗 LinkedIn : [Côme MARCHAL](https://www.linkedin.com/in/c%C3%B4me-marchal-480462240)  
 📂 Portfolio : ~~[cocopw](https://cocopw.fr)~~ en devloppement 
 
